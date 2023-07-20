@@ -2,7 +2,7 @@
 
 ## Task
 
-This repo contains the sample code for the [Technical Writer Interview Task](https://docs.google.com/document/d10WtbnP1wnC_iWrqeu4Mitn5u9zljhmwhB7OH_ir4esw/edit?usp=sharing)
+This repo contains the sample code for the [Technical Writer Interview Task](https://docs.google.com/document/d/10WtbnP1wnC_iWrqeu4Mitn5u9zljhmwhB7OH_ir4esw/edit?usp=sharing)
 
 ## Code
 The source code is a simple Python script that calculates the area of various shapes and can be found at `src/area_calculator.py`. 
