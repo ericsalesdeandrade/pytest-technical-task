@@ -23,9 +23,12 @@ Paid
 - Write a keyword-driven 500-word article (Markdown Format) with a well-defined outline, taking the reader through a journey that explains a solution to their problem. 
 - Use the example code provided in the repository `master` branch in your article.
 - Make a New Branch and Pull Request on the repository to submit your work. 
-- Use code snippets and screenshots from the Terminal to show output in the article. 
+- Use markdown formatted code snippets and screenshots from the Terminal to show output in the article. 
 - Ensure content uses correct grammar and DO NOT copy/paste from ChatGPT.
 - Use style, outline and tone of voice inspiration from the [Pytest with Eric](https://pytest-with-eric.com/) website.
+- Ensure article has a clear introduction, body, and conclusion.
+- Address intention behind keyword search term in the article. 
+- Do thorough research on outlined topic and provide references.
 - BONUS - Add a Catchy Heading for the article, containing the keyword. 
 - BONUS - Use images, diagrams, and screenshots to enhance content.
 
