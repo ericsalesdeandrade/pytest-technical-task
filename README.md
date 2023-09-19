@@ -25,7 +25,7 @@ Paid
 - Make a New Branch and Pull Request on the repository to submit your work. 
 - Use code snippets and screenshots from the Terminal to show output in the article. 
 - Ensure content uses correct grammar and DO NOT copy/paste from ChatGPT.
-- Use style, outline and tone of voice inspiration from the Pytest with Eric website.
+- Use style, outline and tone of voice inspiration from the [Pytest with Eric](https://pytest-with-eric.com/) website.
 - BONUS - Add a Catchy Heading for the article, containing the keyword. 
 - BONUS - Use images, diagrams, and screenshots to enhance content.
 
